@@ -1,5 +1,6 @@
 # Incivilities-analysis-for-Stockholm
 Measuring Social Control of Urban Areas: A Case Study of Reported Incivilities in Stockholm
+
 The research publication can be viewed here (https://www.sciencedirect.com/science/article/pii/S0264275123002688).
 
 The research involved several analyses, including descriptive statistics, trend analysis, seasonal decomposition analysis, and time series forecasting using a seasonal ARIMAX model with exogenous variables (SARIMAX).
